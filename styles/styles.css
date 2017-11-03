@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+#viewer {
+  width: 640px;
+	max-width: 100%;
+	height: 426px;
+	margin-top: auto; /* makes the img align properly */
+	margin-bottom: 20px;
+  margin-left:1%;
+  margin-right: 0;
+	overflow: hidden;
+	cursor: pointer; /* makes it the cute glove hand */
+}
